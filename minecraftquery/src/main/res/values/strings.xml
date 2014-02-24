@@ -9,7 +9,6 @@
     </string>
     <string name="title_section2" >Server 2
     </string>
-    <string name="title_section3" >Server 3
-    </string><string name="refreshButton">Refresh Query</string>
+<string name="refreshButton">Refresh Query</string>
 
 </resources>
